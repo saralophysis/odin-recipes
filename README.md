@@ -1,2 +1,2 @@
 # odin-recipes
-This basic website will consist of a main index page which will have links to a few recipes and will showcase my HTML knowledge. This is my first Odin Project.
+This HTML site contains an index page with links to 3 recipes pages. The recipe pages each contain images, ingredient lists, and steps to complete the recipes.
